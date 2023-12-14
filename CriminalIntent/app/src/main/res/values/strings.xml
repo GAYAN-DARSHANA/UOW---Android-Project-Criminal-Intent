@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Enter title for the crime</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="date_picker_title">Date of Crime:</string>
+    <string name="new_crime">New Crime</string>
+    <string name="delete_crime">Delete Crime</string>
+    <string name="toast_delete_crime">Crime has been deleted</string>
+    <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="crime_report_text">Send Crime Report</string>
+    <string name="crime_report">%1$s! The crime was discovered on %2$s.%3$s, and %4$s </string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">There is no suspect</string>
+    <string name="crime_report_suspect">The suspect is %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Sen crime report via</string>
+    <string name="call_button">Call for suspect</string>
+    <string name="no_suspect">OOPS! Please select a suspect</string>
+    <string name="dialog_image_title">Crime Image</string>
+</resources>
